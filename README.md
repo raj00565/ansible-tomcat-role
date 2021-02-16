@@ -1,8 +1,6 @@
 
-[![Build Status](https://travis-ci.org/zaxos/tomcat-ansible-role.svg?branch=master)](https://travis-ci.org/zaxos/tomcat-ansible-role)
-[![Ansible Galaxy](https://img.shields.io/badge/galaxy-_zaxos.tomcat--ansible--role-blue.svg)](https://galaxy.ansible.com/zaxos/tomcat-ansible-role/)
 
-tomcat-ansible-role
+Ansible tomcat role
 ===================
 
 Ansible role to install and configure Apache Tomcat on CentOS/RHEL. 
